@@ -7,7 +7,7 @@
   - 👨‍💻 I love solving complex problems and building efficient, scalable backend systems.
   - 🔭 I’m always working on expanding my knowledge in backend technologies, from classic programming languages to modern frameworks.
   - 🌱 Right now, I’m focused on mastering **microservices architecture** and diving deeper into **cloud computing**.
-  - 📝 I regularly update my GitHub with personal projects and experiments in various languages and frameworks. Check them out here: [https://github.com/ZeleZ-T](https://github.com/ZeleZ-T).
+  - 📝 I regularly update my GitHub with personal projects and experiments in various languages and frameworks. Check them out here in my Github profile.
   - 📫 How to reach me: **zelez-t@outlook.com**
 
 ### Personal Curious Fact:
