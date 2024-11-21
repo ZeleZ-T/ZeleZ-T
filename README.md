@@ -2,15 +2,18 @@
 <h5 align="center">A passionate Backend Developer from Colombia</h3>
 
 
-
+### About Me:
   - 🎓 I’m currently pursuing a degree in **Universidad Nacional De Colombia**.
   - 👨‍💻 I love solving complex problems and building efficient, scalable backend systems.
   - 🔭 I’m always working on expanding my knowledge in backend technologies, from classic programming languages to modern frameworks.
   - 🌱 Right now, I’m focused on mastering **microservices architecture** and diving deeper into **cloud computing**.
   - 📝 I regularly update my GitHub with personal projects and experiments in various languages and frameworks. Check them out here: [https://github.com/ZeleZ-T](https://github.com/ZeleZ-T).
   - 📫 How to reach me: **zelez-t@outlook.com**
-  - ⚡ Fun fact: I started programming with C++ and quickly fell in love with backend development. Now, I’m hooked on learning as much as I can!
 
+### Personal Curious Fact:
+- 🎮 In my free time, I love planning, designing, and creating indie video games. In the future, I aspire to become a Game Director for AAA games at a major company.
+- 🧩 Whenever I get the chance, I enjoy solving problems and optimizing solutions—whether in my projects, jobs, homework, or even around the house, like organizing furniture and tools efficiently.
+- ⚡ I started programming with C++ and quickly fell in love with backend development and now, I’m hooked on learning as much as I can!
 
 ### 🛠️ Tech Stack:
 
@@ -39,4 +42,4 @@
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black)</h4>
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black)
